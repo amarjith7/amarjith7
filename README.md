@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Amarjith</h1>
-<h3 align="center">Aspiring Full stack Developer</h3>
+<h3 align="center">Aspiring Data/Business Analyst</h3>
 
 <p align="left"> <a href="https://twitter.com/amarjitht2002" target="blank"><img src="https://img.shields.io/twitter/follow/amarjitht2002?logo=twitter&style=for-the-badge" alt="amarjitht2002" /></a> </p>
 
-- 🔭 I’m currently working on **Front end Development**
+- 🔭 I’m currently working on **Analytical Projects**
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently learning **Power Bi**
 
 - 💬 Ask me about **Python**
 
